@@ -38,10 +38,6 @@ img {
     height: 100%;
   }
 
-  body{
-    background-color: brown;
-  }
-
 #text-slider-container{
     position:relative;
     margin-top: 30px;
